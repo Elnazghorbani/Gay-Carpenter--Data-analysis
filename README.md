@@ -1,0 +1,1 @@
+This repository contains a portion of the data analysis and loss prediction code based on real-world data provided by Guy Carpenter, a New York-based insurance company. The analysis focuses on predicting potential losses, leveraging advanced statistical techniques to provide actionable insights for risk management.
